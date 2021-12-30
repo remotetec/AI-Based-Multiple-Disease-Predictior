@@ -36,5 +36,5 @@ All the datasets were used from kaggle.
 - [Kidney Disease Dataset](https://www.kaggle.com/mansoordaku/ckdisease)
 - [Brain Stroke Dataset](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)
 
-## Live Video of Attendance System
+## Live Video 
 https://user-images.githubusercontent.com/89459208/147746631-07e0709f-ab1f-429d-85ca-f35774cfa8cf.mp4
