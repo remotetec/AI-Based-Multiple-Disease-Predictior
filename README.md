@@ -39,6 +39,6 @@ All the datasets were used from kaggle.
 ## Live Video of Attendance System
 ![alt text](https://github.com/rohitsahu70/HealthBay-Daignosis-Application/blob/main/HE
 
-https://user-images.githubusercontent.com/89459208/147745780-5cd3e899-3013-42db-87c8-dd3af55eacad.mp4
+<!-- https://user-images.githubusercontent.com/89459208/147745780-5cd3e899-3013 -->
 
 ALTHBAY1.mp4)
