@@ -37,8 +37,4 @@ All the datasets were used from kaggle.
 - [Brain Stroke Dataset](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)
 
 ## Live Video of Attendance System
-![alt text](https://github.com/rohitsahu70/HealthBay-Daignosis-Application/blob/main/HE
-
-<!-- https://user-images.githubusercontent.com/89459208/147745780-5cd3e899-3013 -->
-
-ALTHBAY1.mp4)
+![alt text]( https://user-images.githubusercontent.com/89459208/147745908-25ede6ab-7dbe-4872-a864-e2d44f35206b.mp4)
