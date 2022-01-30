@@ -1,4 +1,11 @@
-# HealthBay Daignosis Application
+<div align="center">
+<h1>HealthBay Daignosis Application</h1>
+<img src="https://img.shields.io/badge/Python-3.7.3-brown" />
+<img src="https://img.shields.io/badge/Frontend-HTML/CSS/JS-orange" />
+<img src="https://img.shields.io/badge/BackendAPI-Flask-yellow" />
+<img src="https://img.shields.io/badge/IDE-Jupyter-red" />
+<img src="https://img.shields.io/badge/Deployment-Heroku/Netlify-blue" />
+</div>
 
 ## About
 
