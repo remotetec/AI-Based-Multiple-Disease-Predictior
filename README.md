@@ -43,5 +43,9 @@ All the datasets were used from kaggle.
 - [Kidney Disease Dataset](https://www.kaggle.com/mansoordaku/ckdisease)
 - [Brain Stroke Dataset](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)
 
+## Work Flow
+
+![Blank diagram](https://user-images.githubusercontent.com/89459208/151712121-50199b61-d68a-46ae-a147-6990b9cf2396.jpeg)
+
 ## Live Video 
 https://user-images.githubusercontent.com/89459208/147746631-07e0709f-ab1f-429d-85ca-f35774cfa8cf.mp4
